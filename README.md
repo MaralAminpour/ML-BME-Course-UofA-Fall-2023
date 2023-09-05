@@ -2,9 +2,9 @@
 
 ## Class Time and Location
 
-Time: Wednesdays at 02:00 PM to 04:50 PM
+Time: Tuesdays and Thursdays at 02:00 PM to 03:20 PM
 
-Location: Natural Resources Engineering Facility (NRE) 2-127
+Location: Central Academic Building (CAB) 281
 
 ## Instructor
 
