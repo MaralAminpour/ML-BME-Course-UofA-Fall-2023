@@ -2,7 +2,7 @@
 
 ## Class Time and Location
 
-Time: Tuesdays and Thursdays at 02:00 PM to 03:20 PM
+Time: Tuesdays and Thursdays at 2:00 PM to 3:20 PM
 
 Location: Central Academic Building (CAB) 281
 
@@ -12,7 +12,7 @@ Maral Aminpour, Ph.D. (Pronouns: she/her/hers)
 
 Email address: aminpour@ualberta.ca
 
-Office hours: Thursdays (3:00 pm–4:30 pm)
+Office hours: Thursdays (3:30 pm–4:30 pm)
 
 Office location: Donadeo Innovation Centre for Engineering 13-209
 
