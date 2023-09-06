@@ -12,7 +12,7 @@ Maral Aminpour, Ph.D. (Pronouns: she/her/hers)
 
 Email address: aminpour@ualberta.ca
 
-Office hours: Thursdays (3:30 pm–4:30 pm)
+Office hours: Tuesdays and Thursdays (3:30 pm – 4:30 pm )
 
 Office location: Donadeo Innovation Centre for Engineering 13-209
 
