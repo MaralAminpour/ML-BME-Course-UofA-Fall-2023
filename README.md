@@ -24,4 +24,4 @@ The course notebooks and associated files will be available here. Updates will b
 
 ##
 
-Acknowledgement: This course is based on "Machine Learning for Biomedical Applications: With Scikit-Learn and PyTorch" book and lectures by Maria Deprez & Emma C. Robinson; September 15, 2023. ISBN-10: 0128229047. ISBN-13: 978-0128229040.
+**Acknowledgement:** This course is based on "Machine Learning for Biomedical Applications: With Scikit-Learn and PyTorch" book and lectures by Maria Deprez & Emma C. Robinson; September 15, 2023. ISBN-10: 0128229047. ISBN-13: 978-0128229040.
